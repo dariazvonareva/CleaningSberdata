@@ -7,3 +7,6 @@ __pycache__/
 *.csv
 **/*.ipynb_checkpoints/
 **/__csv__/
+*.DS_Store
+/*.DS_Store/
+**/__DS_Store__/
