@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+**/__pycache__/
+/*.csv/
+*.csv
+**/*.ipynb_checkpoints/
+**/__csv__/
